@@ -1,0 +1,7 @@
+{
+  "name": "APPCAMARA",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
